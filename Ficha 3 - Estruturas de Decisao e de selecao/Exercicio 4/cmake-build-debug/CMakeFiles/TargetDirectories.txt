@@ -1,0 +1,3 @@
+/Users/barbaracelina/Desktop/Exercício Fundamentos prog/Ficha 3 - Estruturas de Decisao e de selecao/cmake-build-debug/CMakeFiles/Ficha_3___Estruturas_de_Decisao_e_de_selecao.dir
+/Users/barbaracelina/Desktop/Exercício Fundamentos prog/Ficha 3 - Estruturas de Decisao e de selecao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/barbaracelina/Desktop/Exercício Fundamentos prog/Ficha 3 - Estruturas de Decisao e de selecao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
