@@ -9,10 +9,17 @@ body{
 }
 header ul{
   display: flex;
-  flex-wrap: 5px;
+  
 }
+
+header ul li{
+  list-style: none;
+  margin-right: 15px;
+}
+
 
 article{
   width: 100%;
   max-width: 300px;
+  margin: auto;
 }
